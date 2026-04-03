@@ -1,0 +1,6 @@
+{
+  "name": "d-m",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "devDependencies": { "turbo": "latest" }
+}
